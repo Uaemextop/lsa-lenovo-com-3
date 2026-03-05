@@ -1,0 +1,13 @@
+{
+  "url": "https://lsa.lenovo.com/tomcat.css",
+  "status_code": 200,
+  "headers": {
+    "Date": "Thu, 05 Mar 2026 21:17:08 GMT",
+    "Content-Type": "text/css",
+    "Content-Length": "5981",
+    "Connection": "keep-alive",
+    "Accept-Ranges": "bytes",
+    "ETag": "W/\"5981-1759302088000\"",
+    "Last-Modified": "Wed, 01 Oct 2025 07:01:28 GMT"
+  }
+}

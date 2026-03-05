@@ -1,0 +1,10 @@
+{
+  "url": "https://lsa.lenovo.com/docs/setup.html",
+  "status_code": 403,
+  "headers": {
+    "Date": "Thu, 05 Mar 2026 21:17:07 GMT",
+    "Content-Type": "text/html;charset=UTF-8",
+    "Content-Length": "904",
+    "Connection": "keep-alive"
+  }
+}
